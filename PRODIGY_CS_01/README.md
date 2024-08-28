@@ -17,7 +17,7 @@ The Caesar Cipher Tool is a simple application for encrypting and decrypting tex
 
 1. **Clone or Download the Repository**:
    ```bash
-   git clone https://github.com/YDTech06/Prodigy-Infotech-CS-Tasks/tree/main/PRODIGY_CS_01.git
+   git clone https://github.com/YDTech06/PRODIGY_CS_01.git
 2. **Install Dependencies: Ensure you have PyQt5 installed**:
    ```bash
    pip install PyQt5
